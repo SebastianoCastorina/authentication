@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "xefisyq@mailinator.com",
+      "password": "$2a$10$Yea.31k6MXZtEARl8RZLNugdkuH8Fp4W/c28tQnAboxKaKPw9GRZy",
+      "nome": "Sed ipsa quae place",
+      "cognome": "Optio esse nulla u",
+      "id": 1
+    },
+    {
+      "email": "xediqad@mailinator.com",
+      "password": "$2a$10$ThKnAZVvU4RD6UgShOW9nO4NOLjGCQbGzvi8484pLXdDTEtI07u7y",
+      "nome": "Veritatis eos et cul",
+      "cognome": "Sapiente deserunt co",
+      "id": 2
+    }
+  ]
+}
